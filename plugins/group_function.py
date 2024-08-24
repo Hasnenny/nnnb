@@ -9,7 +9,6 @@ from plugins.antiflood import MessagesAntiFlood
 from plugins.azkar import *
 from plugins.admin import *
 from plugins.aflam import aflamAR
-from plugins.cartoon import cartoon
 from plugins.commands import command
 from plugins.destroy_group import destroy_all_group
 from plugins.games import games
